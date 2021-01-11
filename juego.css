@@ -1,0 +1,78 @@
+/*   */
+#padre{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+
+.amarillo{
+    background: #D9DC00;
+    width:100%;
+    height:50px;
+}
+.amarillo.light{
+    background:#FCFF00;
+}
+.naranja{
+    background: #F74F4F;
+    width:100%;
+    height:50px;
+}
+.naranja.light{
+    background:#FF0000;
+}
+.violeta{
+    background: #D627E1;
+    width:100%;
+    height:50px;
+}
+.violeta.light{
+    background:#F000FF;
+}
+.rojo{
+    background: #E43838;
+    width:100%;
+    height:50px;
+}
+.rojo.light{
+    background:#FF0000;
+}
+.gris{
+    background: #848783;
+    width:100%;
+    height:50px;
+}
+.gris.light{
+    background:#989C97
+}
+.azul{
+    background: #623BBA;
+    width:100%;
+    height:50px;
+}
+.azul.light{
+    background:#4E00FF;
+}
+.verde{
+    background: #31B640 ;
+    width:100%;
+    height:50px;
+}
+.verde.light{
+    background:#00FF1E;
+}
+.cafe{
+    background: #9F6D2C;
+    width:100%;
+    height:50px;
+}
+.cafe.light{
+    background:#C68B3E;
+}
+.accion{
+    margin-top:50px;
+    text-align:center;
+}
+.hide{
+    display:none
+}
